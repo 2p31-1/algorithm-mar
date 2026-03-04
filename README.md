@@ -82,7 +82,7 @@ algorithm-mar
 | **2일차 (수)** | 전기가 부족해 | 골드 III | https://www.acmicpc.net/problem/10423 |
 | **3일차 (목)** |  - | 골드  | https://www.acmicpc.net/problem/ |
 | **4일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **스터디** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **스터디** | 사탕상자 | 플래티넘 V | https://www.acmicpc.net/problem/2243 |
 
 ---
 

@@ -95,7 +95,7 @@ algorithm-mar
 | **7일차 (수)** | 자동차경주 | 골드 II | https://www.acmicpc.net/problem/2611 |
 | **8일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **9일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **스터디** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **스터디** | 개구리 공주 | 플래티넘 IV | https://www.acmicpc.net/problem/2983 |
 
 ---
 
